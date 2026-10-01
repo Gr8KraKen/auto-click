@@ -1,0 +1,6 @@
+{
+  "name": "ClickForge",
+  "description": "Obsidian Precision Auto Clicker with Floating HUD Overlay, Multi-Target Macros, and Anti-Detection Engine",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

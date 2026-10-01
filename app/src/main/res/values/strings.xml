@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ClickForge</string>
+    <string name="accessibility_service_label">ClickForge Auto Clicker Service</string>
+    <string name="accessibility_service_description">Enables ClickForge to perform precise automated screen taps and gestures based on your configured targets and macros.</string>
+</resources>
